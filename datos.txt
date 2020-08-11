@@ -1,0 +1,128 @@
+TipoHabitacion
+1 semiprivada
+2 privada
+3 suite
+
+TipoMedico
+1 interno
+2 externo
+
+Especialidad
+1 cardiologo
+2 cirugia general
+3 cirugia plastica
+4 dermatologia
+5 ginecologia
+6 medicina interna
+7 oftalmologia
+8 oncologia
+9 pediatria
+10 psiquiatria
+11 traumatologia
+12 urologia
+13 enfermeria
+
+Medico
+	Nombre: Jorge 
+	Apellido: Cobos
+	Fecha de ingreso: 
+	Horario: 
+
+	Nombre: Edgardo
+	Apellido: Cruz
+	Fecha de ingreso: 
+	Horario:
+
+	Nombre: Jorge 
+	Apellido: Arita
+	Fecha de ingreso: 
+	Horario:
+
+	Nombre: Jorge 
+	Apellido: Cobos
+	Fecha de ingreso: 
+	Horario:
+
+	Nombre: Nestor
+	Apellido: Ramirez
+	Fecha de ingreso: 
+	Horario:
+
+	Nombre: Carlos
+	Apellido: Medina
+	Fecha de ingreso: 
+	Horario:
+
+	Nombre: Gabriel
+	Apellido: Hernandez
+	Fecha de ingreso: 
+	Horario:
+
+Tipo de cirugia
+TipoID  Nombre Costo
+1 	mayor	
+2	menor	
+3	cirugia de minimo acceso
+4	cirugia neonatal
+5	dermatologia
+6	neuroendoscopia
+7	glaucoma
+8	oculoplastia
+9	cornea
+10	cirugia implanto refractiva
+
+TipoAtenciones
+1	visita del medico
+2	aplicacion de medicamento
+3	alimentos
+4	estabilizacion
+
+Inventario Equipos
+1	jabon
+2	agujas
+3	cateteres
+4	sondas
+5	gasas
+6	algodones
+7	guantes 
+8	lentes
+9	caretas
+10	jeringa
+11	batas
+12	traje biologico
+13	hilo
+14	protectores zapatos
+15	bolsa desechos biologicos
+
+Medicamentos
+1	fluoruro de sodio
+2	ranitidina
+3	omeprazol
+4	sucralfato
+5	atropina
+6	metoclopramida
+7	domperidona
+8	ondansetron
+9	nistatina
+10	sales de rehidratacion oral
+11	carbon activado
+12	insulina humana rapida
+13	metformina
+14	glimepirida
+15	repaglinida
+16	tocoferol
+17	retinol
+18	zinc
+19	enoxaparina
+20 	warfarina
+21	etansilato
+22	acido folico
+23	hierro elemental
+24	solucion manitol
+25	cloruro de potasio
+26	sulfato de magnesio
+27	gluconato de calcio
+28	adenosina
+29	adrenalina
+30	atenolol
+
